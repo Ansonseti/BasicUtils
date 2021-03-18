@@ -1,6 +1,7 @@
 # BasicUtils
 A Basic Utilities Bot 
 
+This Repository is from the [guide](http://discordjs.guide/) of Discord.js ( handler, etc )
 
 **Setup**
 Requirements
