@@ -1,8 +1,8 @@
 # BasicUtils
 A Basic Utilities Bot 
 
+
 **Setup**
-**--------------------------------------**
 Requirements
 **I.**
 1. Must have Nodejs installed or Hosting Services
