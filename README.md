@@ -10,4 +10,5 @@ Requirements
 **I.**
 1. Must have Nodejs installed or Hosting Services with Node.js installed
 For installing Node.JS go [here](https://nodejs.org/en/)
-2. You are required having a bot account
+2. You need npm installed
+3. You are required having a bot account
