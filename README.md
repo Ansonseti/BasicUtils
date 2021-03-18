@@ -2,6 +2,7 @@
 A Basic Utilities Bot 
 
 This Repository is from the [guide](http://discordjs.guide/) of Discord.js ( handler, etc )
+And yes some of the code are simple ( since i don't leak my code lol xd )
 
 **Setup**
 Requirements
